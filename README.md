@@ -99,9 +99,10 @@ Signature........ 548
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Zalek548&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub statistics" />
+![GitHub Statistics](./profile/stats.svg)
 
 </div>
+
 
 ---
 
@@ -119,7 +120,7 @@ Signature........ 548
 
 <div align="center">
 
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalek548&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=C9D1D9&langs_count=8" alt="Top languages" />
+![Top Languages](./profile/top-langs.svg)
 
 </div>
 
