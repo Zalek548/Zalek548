@@ -1,15 +1,13 @@
 <!--
 ╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
 ║                         SIGNATURE: 548                           ║
-║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=7C3AED&center=true&vCenter=true&repeat=true&width=750&height=70&lines=%3E+Initializing+system...;%3E+Identity+verified.;%3E+Operator%3A+Zalek;%3E+Offensive+Security;%3E+Signature+detected%3A+548."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=900&color=A855F7&center=true&vCenter=true&repeat=true&width=760&height=70&lines=%3E+Initializing+system...;%3E+Identity+verified.;%3E+Operator%3A+Zalek;%3E+Offensive+Security;%3E+Signature+detected%3A+548."
   alt="Typing animation"
 />
 
@@ -27,7 +25,7 @@
 ```
 
 <img
-  src="https://komarev.com/ghpvc/?username=Zalek548&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=Zalek548&label=PROFILE%20VIEWS&color=7E22CE&style=for-the-badge"
   alt="Profile views"
 />
 
@@ -68,55 +66,44 @@ at a deeper level through programming and offensive security.
 
 <div align="center">
 
-<img
-  src="https://skillicons.dev/icons?i=python,cpp,c,java,lua,linux,git,vscode&theme=dark"
-  alt="Technology icons"
-/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A855F7" alt="Python"/>
+<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=A855F7" alt="C++"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A855F7" alt="C"/>
+<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=A855F7" alt="Java"/>
+<img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=A855F7" alt="Lua"/>
+<img src="https://img.shields.io/badge/Brainfuck-0D1117?style=for-the-badge&logoColor=A855F7" alt="Brainfuck"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=A855F7" alt="Linux"/>
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7" alt="Git"/>
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=A855F7" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Offensive_Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=A855F7" alt="Offensive Security"/>
 
 </div>
 
 ```text
-[PROGRAMMING LANGUAGES]
-
-  ├── Python
-  ├── C++
-  ├── C
-  ├── Java
-  ├── Lua
-  └── Brainfuck
-
-[SECURITY INTERESTS]
-
-  ├── Offensive Security
-  ├── Reverse Engineering
-  ├── Binary Analysis
-  ├── Malware Research
-  ├── Exploit Development
-  ├── Operating Systems
-  └── Capture The Flag
+┌─────────────────────── SKILL DATABASE ────────────────────────┐
+│                                                              │
+│  PROGRAMMING                                                 │
+│  ├── Python                                                  │
+│  ├── C++                                                     │
+│  ├── C                                                       │
+│  ├── Java                                                    │
+│  ├── Lua                                                     │
+│  └── Brainfuck                                               │
+│                                                              │
+│  SECURITY                                                    │
+│  ├── Offensive Security                                     │
+│  ├── Reverse Engineering                                    │
+│  ├── Binary Analysis                                        │
+│  ├── Malware Research                                       │
+│  ├── Exploit Development                                    │
+│  └── Capture The Flag                                       │
+│                                                              │
+│  SIGNATURE.............................................. 548  │
+└──────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## `> badges --show`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=7C3AED" alt="Python"/>
-<img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=7C3AED" alt="C++"/>
-<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=7C3AED" alt="C"/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=7C3AED" alt="Java"/>
-<img src="https://img.shields.io/badge/Lua-0D1117?style=for-the-badge&logo=lua&logoColor=7C3AED" alt="Lua"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=7C3AED" alt="Linux"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=7C3AED" alt="Git"/>
-<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=7C3AED" alt="VS Code"/>
-<img src="https://img.shields.io/badge/Offensive_Security-0D1117?style=for-the-badge&logo=hackthebox&logoColor=7C3AED" alt="Offensive Security"/>
-<img src="https://img.shields.io/badge/Signature-548-7C3AED?style=for-the-badge" alt="Signature 548"/>
-
-</div>
 
 ---
 
@@ -125,23 +112,9 @@ at a deeper level through programming and offensive security.
 <div align="center">
 
 <img
-  width="700"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zalek548&theme=tokyonight"
-  alt="GitHub profile statistics"
-/>
-
-<br/>
-
-<img
   height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zalek548&theme=tokyonight"
-  alt="GitHub statistics"
-/>
-
-<img
-  height="180"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Zalek548&theme=tokyonight&utcOffset=-3"
-  alt="Productive time"
+  src="https://github-readme-stats.vercel.app/api?username=Zalek548&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&icon_color=9333EA&ring_color=A855F7&include_all_commits=true&count_private=true"
+  alt="GitHub Statistics"
 />
 
 </div>
@@ -153,8 +126,8 @@ at a deeper level through programming and offensive security.
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Zalek548&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"
-  alt="GitHub contribution streak"
+  src="https://streak-stats.demolab.com?user=Zalek548&hide_border=true&background=0D1117&stroke=581C87&ring=A855F7&fire=9333EA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A855F7&sideLabels=A855F7&dates=9CA3AF"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -166,32 +139,35 @@ at a deeper level through programming and offensive security.
 <div align="center">
 
 <img
-  height="210"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zalek548&theme=tokyonight"
-  alt="Repositories per language"
-/>
-
-<img
-  height="210"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zalek548&theme=tokyonight"
-  alt="Languages used in commits"
+  height="200"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalek548&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&langs_count=8"
+  alt="Top Languages"
 />
 
 </div>
 
-> These cards analyze public GitHub repositories and commits. They do not represent proficiency in each language.
+> Esse painel analisa os arquivos públicos dos repositórios e não representa necessariamente seu nível em cada linguagem.
 
 ---
 
 ## `> coding-time --wakatime`
+
+```text
+┌──────────────────────── CODING ACTIVITY ────────────────────────┐
+│                                                                │
+│  Dados registrados automaticamente pelo WakaTime.              │
+│  Editor conectado...................................... ONLINE  │
+│  Operator............................................... ZALEK  │
+│  Signature.................................................548  │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
+```
 
 <!--START_SECTION:waka-->
 ```text
 Waiting for WakaTime data...
 ```
 <!--END_SECTION:waka-->
-
-> This section is updated automatically using data recorded by WakaTime.
 
 ---
 
@@ -200,8 +176,8 @@ Waiting for WakaTime data...
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Zalek548&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&custom_title=Zalek%20548%20Contribution%20Graph"
-  alt="GitHub activity graph"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Zalek548&bg_color=0D1117&color=E9D5FF&line=A855F7&point=FFFFFF&area=true&area_color=581C87&hide_border=true&custom_title=SIGNATURE%20548%20%7C%20CONTRIBUTION%20GRAPH"
+  alt="Contribution Graph"
 />
 
 </div>
@@ -214,18 +190,20 @@ Waiting for WakaTime data...
 
 <img
   src="https://raw.githubusercontent.com/Zalek548/Zalek548/gh-pages/github-contribution-grid-snake-dark.svg"
-  alt="GitHub contribution snake"
+  alt="Contribution Snake"
 />
 
 </div>
 
-```console
-┌──(zalek㉿548)-[~/contributions]
-└─$ ./snake --signature 548
-
-[+] Contribution grid loaded
-[+] Operator identified
-[+] Signature detected: 548
+```text
+┌──────────────────────── SNAKE PROCESS ──────────────────────────┐
+│                                                                │
+│  Contribution grid..................................... LOADED  │
+│  Dark environment...................................... ACTIVE  │
+│  Operator............................................... ZALEK  │
+│  Signature.................................................548  │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -234,32 +212,30 @@ Waiting for WakaTime data...
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Operating_Systems-LEARNING-7C3AED?style=for-the-badge" alt="Operating Systems"/>
-<img src="https://img.shields.io/badge/Reverse_Engineering-LEARNING-7C3AED?style=for-the-badge" alt="Reverse Engineering"/>
-<img src="https://img.shields.io/badge/Python_Automation-ACTIVE-7C3AED?style=for-the-badge" alt="Python Automation"/>
+<img src="https://img.shields.io/badge/Operating_Systems-LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=581C87" alt="Operating Systems"/>
+<img src="https://img.shields.io/badge/Reverse_Engineering-LEARNING-0D1117?style=for-the-badge&labelColor=0D1117&color=581C87" alt="Reverse Engineering"/>
+<img src="https://img.shields.io/badge/Python_Automation-ACTIVE-0D1117?style=for-the-badge&labelColor=0D1117&color=7E22CE" alt="Python Automation"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Binary_Analysis-STUDYING-7C3AED?style=for-the-badge" alt="Binary Analysis"/>
-<img src="https://img.shields.io/badge/CTF-TRAINING-7C3AED?style=for-the-badge" alt="CTF"/>
-<img src="https://img.shields.io/badge/Offensive_Security-IN_PROGRESS-7C3AED?style=for-the-badge" alt="Offensive Security"/>
+<img src="https://img.shields.io/badge/Binary_Analysis-STUDYING-0D1117?style=for-the-badge&labelColor=0D1117&color=581C87" alt="Binary Analysis"/>
+<img src="https://img.shields.io/badge/CTF-TRAINING-0D1117?style=for-the-badge&labelColor=0D1117&color=7E22CE" alt="CTF"/>
+<img src="https://img.shields.io/badge/Offensive_Security-IN_PROGRESS-0D1117?style=for-the-badge&labelColor=0D1117&color=581C87" alt="Offensive Security"/>
 
 </div>
 
 ```text
 ╔════════════════════════ CURRENT MISSION ════════════════════════╗
 
-  [■] Learn operating system internals
-  [■] Study reverse engineering
-  [■] Improve low-level programming
-  [■] Build Python security tools
-  [■] Practice binary analysis
-  [■] Participate in CTF challenges
-  [ ] Master offensive security
+  OPERATING SYSTEMS      ████████░░░░░░░░░░░░  40%
+  REVERSE ENGINEERING    ██████░░░░░░░░░░░░░░  30%
+  PYTHON AUTOMATION      ████████████░░░░░░░░  60%
+  BINARY ANALYSIS        ██████░░░░░░░░░░░░░░  30%
+  OFFENSIVE SECURITY     ████░░░░░░░░░░░░░░░░  20%
 
-  STATUS............ IN PROGRESS
-  OPERATOR.......... ZALEK
-  SIGNATURE......... 548
+  STATUS............................................. IN PROGRESS
+  OPERATOR................................................ ZALEK
+  SIGNATURE................................................. 548
 
 ╚═════════════════════════════════════════════════════════════════╝
 ```
@@ -268,54 +244,27 @@ Waiting for WakaTime data...
 
 ## `> projects --scan`
 
-```console
-┌──(zalek㉿548)-[~/projects]
-└─$ ls -la
-
-drwxr-xr-x  security-tools
-drwxr-xr-x  reverse-engineering
-drwxr-xr-x  low-level-experiments
-drwxr-xr-x  ctf-writeups
-drwxr-xr-x  project-548
-
-[!] Public projects are currently being initialized.
-[+] New repositories will appear here soon.
+```text
+┌──────────────────────── PROJECT DATABASE ───────────────────────┐
+│                                                                │
+│  ./security-tools                                              │
+│  ./reverse-engineering                                         │
+│  ./low-level-experiments                                       │
+│  ./ctf-writeups                                                │
+│  ./project-548                                                 │
+│                                                                │
+│  STATUS.......................................... INITIALIZING  │
+│  PUBLIC PROJECTS................................... LOADING...  │
+│                                                                │
+└────────────────────────────────────────────────────────────────┘
 ```
 
 <div align="center">
 
 <a href="https://github.com/Zalek548?tab=repositories">
   <img
-    src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-7C3AED?style=for-the-badge&logo=github&logoColor=white"
-    alt="View all repositories"
-  />
-</a>
-
-</div>
-
----
-
-## `> achievements --status`
-
-```text
-┌────────────────────── ACHIEVEMENT DATABASE ─────────────────────┐
-│                                                                 │
-│  STATUS............. COLLECTING DATA                            │
-│  CONTRIBUTIONS...... ACTIVE                                     │
-│  PROJECTS........... INITIALIZING                               │
-│  CURRENT RANK....... UNKNOWN                                    │
-│                                                                 │
-│  Keep building. Keep studying. Keep contributing.               │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-<a href="https://github.com/Zalek548?tab=achievements">
-  <img
-    src="https://img.shields.io/badge/VIEW_GITHUB_ACHIEVEMENTS-0D1117?style=for-the-badge&logo=github&logoColor=7C3AED"
-    alt="View GitHub achievements"
+    src="https://img.shields.io/badge/OPEN_PROJECT_DATABASE-A855F7?style=for-the-badge&logo=github&logoColor=white"
+    alt="Repositories"
   />
 </a>
 
@@ -329,27 +278,27 @@ drwxr-xr-x  project-548
 
 <a href="mailto:arezalek548@gmail.com">
   <img
-    src="https://img.shields.io/badge/Email-arezalek548%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Email-arezalek548%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"
     alt="Email"
   />
 </a>
 
 <a href="https://github.com/Zalek548">
   <img
-    src="https://img.shields.io/badge/GitHub-Zalek548-7C3AED?style=for-the-badge&logo=github&logoColor=white"
+    src="https://img.shields.io/badge/GitHub-Zalek548-0D1117?style=for-the-badge&logo=github&logoColor=A855F7"
     alt="GitHub"
   />
 </a>
 
 <a href="https://www.instagram.com/zalek548/">
   <img
-    src="https://img.shields.io/badge/Instagram-@Zalek548-7C3AED?style=for-the-badge&logo=instagram&logoColor=white"
+    src="https://img.shields.io/badge/Instagram-@Zalek548-0D1117?style=for-the-badge&logo=instagram&logoColor=A855F7"
     alt="Instagram"
   />
 </a>
 
 <img
-  src="https://img.shields.io/badge/Discord-Zalek548-7C3AED?style=for-the-badge&logo=discord&logoColor=white"
+  src="https://img.shields.io/badge/Discord-Zalek548-0D1117?style=for-the-badge&logo=discord&logoColor=A855F7"
   alt="Discord"
 />
 
@@ -414,7 +363,7 @@ Signature preserved: 548
 ```
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7C3AED&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7E22CE&section=footer"
   alt="Footer"
 />
 
