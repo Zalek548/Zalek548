@@ -19,9 +19,9 @@
 ███████╗██║  ██║███████╗███████╗██║  ██╗
 ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 
-  O F F E N S I V E   S E C U R I T Y
+       O F F E N S I V E   S E C U R I T Y
 
-       SIGNATURE: 548
+                  SIGNATURE: 548
 ```
 
 <img
