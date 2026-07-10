@@ -9,6 +9,8 @@ on:
   push:
     branches:
       - main
+    paths:
+      - ".github/workflows/user-stats.yml"
 
 permissions:
   contents: write
@@ -19,7 +21,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v6
+        uses: actions/checkout@v4
 
       - name: Generate statistics SVG
         uses: cicirello/user-statistician@v1
