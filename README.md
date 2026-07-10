@@ -141,7 +141,7 @@ Signature........ 548
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Zalek548/Zalek548/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+<img src="https://raw.githubusercontent.com/Zalek548/Zalek548/gh-pages/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
