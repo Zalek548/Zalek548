@@ -113,13 +113,22 @@ at a deeper level through programming and offensive security.
 
 <img
   src="./images/userstats.svg"
-  width="850"
+  width="650"
   alt="GitHub statistics and language distribution"
 />
 
 </div>
 
-> Este painel é gerado automaticamente dentro deste repositório.
+```text
+┌────────────────────── PROFILE ANALYSIS ───────────────────────┐
+│                                                              │
+│  SOURCE........................................ GitHub API    │
+│  UPDATE......................................... AUTOMATIC    │
+│  OPERATOR........................................... ZALEK    │
+│  SIGNATURE............................................ 548    │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -128,6 +137,7 @@ at a deeper level through programming and offensive security.
 <div align="center">
 
 <img
+  width="650"
   src="https://streak-stats.demolab.com?user=Zalek548&hide_border=true&background=0D1117&stroke=581C87&ring=A855F7&fire=9333EA&currStreakNum=E9D5FF&sideNums=E9D5FF&currStreakLabel=A855F7&sideLabels=A855F7&dates=9CA3AF"
   alt="GitHub Streak"
 />
@@ -162,6 +172,7 @@ Waiting for WakaTime data...
 <div align="center">
 
 <img
+  width="760"
   src="https://github-readme-activity-graph.vercel.app/graph?username=Zalek548&bg_color=0D1117&color=E9D5FF&line=A855F7&point=FFFFFF&area=true&area_color=581C87&hide_border=true&custom_title=SIGNATURE%20548%20%7C%20CONTRIBUTION%20GRAPH"
   alt="Contribution Graph"
 />
@@ -175,6 +186,7 @@ Waiting for WakaTime data...
 <div align="center">
 
 <img
+  width="760"
   src="https://raw.githubusercontent.com/Zalek548/Zalek548/gh-pages/github-contribution-grid-snake-dark.svg"
   alt="Contribution Snake"
 />
@@ -349,7 +361,7 @@ Signature preserved: 548
 ```
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=110&color=7E22CE&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=7E22CE&section=footer"
   alt="Footer"
 />
 
