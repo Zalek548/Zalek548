@@ -112,12 +112,14 @@ at a deeper level through programming and offensive security.
 <div align="center">
 
 <img
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=Zalek548&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&icon_color=9333EA&ring_color=A855F7&include_all_commits=true&count_private=true"
-  alt="GitHub Statistics"
+  src="./images/userstats.svg"
+  width="850"
+  alt="GitHub statistics and language distribution"
 />
 
 </div>
+
+> Este painel é gerado automaticamente dentro deste repositório.
 
 ---
 
@@ -131,22 +133,6 @@ at a deeper level through programming and offensive security.
 />
 
 </div>
-
----
-
-## `> languages --top`
-
-<div align="center">
-
-<img
-  height="200"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zalek548&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=E9D5FF&langs_count=8"
-  alt="Top Languages"
-/>
-
-</div>
-
-> Esse painel analisa os arquivos públicos dos repositórios e não representa necessariamente seu nível em cada linguagem.
 
 ---
 
